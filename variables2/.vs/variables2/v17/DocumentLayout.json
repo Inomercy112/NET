@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\",
+  "WorkspaceRootPath": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\source\\repos\\variables2\\punto5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:punto5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\source\\repos\\variables2\\punto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:punto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\source\\repos\\variables2\\punto6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\documents\\github\\net\\variables2\\punto6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:punto6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\source\\repos\\variables2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\documents\\github\\net\\variables2\\punto5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:punto5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\source\\repos\\variables2\\punto4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\documents\\github\\net\\variables2\\punto4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:punto4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\source\\repos\\variables2\\punto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\documents\\github\\net\\variables2\\punto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:punto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\documents\\github\\net\\variables2\\punto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:punto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\documents\\github\\net\\variables2\\punto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:punto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\source\\repos\\variables2\\punto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:punto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|c:\\users\\adminsena.desktop-0os8jmn\\documents\\github\\net\\variables2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD4809-6F48-4E44-975B-3A1E73FE7F99}|variables2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,11 +66,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Punto6.cs",
-              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto6.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto6.cs",
               "RelativeDocumentMoniker": "Punto6.cs",
-              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto6.cs",
+              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto6.cs",
               "RelativeToolTip": "Punto6.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +79,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Punto5.cs",
-              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto5.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto5.cs",
               "RelativeDocumentMoniker": "Punto5.cs",
-              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto5.cs",
+              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto5.cs",
               "RelativeToolTip": "Punto5.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Punto4.cs",
-              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto4.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto4.cs",
               "RelativeDocumentMoniker": "Punto4.cs",
-              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto4.cs",
+              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto4.cs",
               "RelativeToolTip": "Punto4.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,24 +104,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Punto3.cs",
-              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto3.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto3.cs",
               "RelativeDocumentMoniker": "Punto3.cs",
-              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto3.cs",
+              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto3.cs",
               "RelativeToolTip": "Punto3.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:36:35.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T21:36:35.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Punto2.cs",
-              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto2.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto2.cs",
               "RelativeDocumentMoniker": "Punto2.cs",
-              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto2.cs",
+              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto2.cs",
               "RelativeToolTip": "Punto2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,9 +130,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Punto1.cs",
-              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto1.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto1.cs",
               "RelativeDocumentMoniker": "Punto1.cs",
-              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Punto1.cs",
+              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Punto1.cs",
               "RelativeToolTip": "Punto1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,11 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\Program.cs",
+              "ToolTip": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

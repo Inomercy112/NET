@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\variables2.csproj",
+      "projectUniqueName": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\variables2.csproj",
       "projectName": "variables2",
-      "projectPath": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\variables2.csproj",
+      "projectPath": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\variables2.csproj",
       "packagesPath": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\source\\repos\\variables2\\obj\\",
+      "outputPath": "C:\\Users\\Adminsena.DESKTOP-0OS8JMN\\Documents\\GitHub\\NET\\variables2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
