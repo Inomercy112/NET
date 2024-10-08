@@ -1,0 +1,14 @@
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\bin\Debug\net8.0\variables2.exe
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\bin\Debug\net8.0\variables2.deps.json
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\bin\Debug\net8.0\variables2.runtimeconfig.json
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\bin\Debug\net8.0\variables2.dll
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\bin\Debug\net8.0\variables2.pdb
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\obj\Debug\net8.0\variables2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\obj\Debug\net8.0\variables2.AssemblyInfoInputs.cache
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\obj\Debug\net8.0\variables2.AssemblyInfo.cs
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\obj\Debug\net8.0\variables2.csproj.CoreCompileInputs.cache
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\obj\Debug\net8.0\variables2.dll
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\obj\Debug\net8.0\refint\variables2.dll
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\obj\Debug\net8.0\variables2.pdb
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\obj\Debug\net8.0\variables2.genruntimeconfig.cache
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\variables2\obj\Debug\net8.0\ref\variables2.dll
