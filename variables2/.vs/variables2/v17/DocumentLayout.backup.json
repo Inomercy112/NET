@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\variables2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:variables2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,6 +41,97 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Punto6.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto6.cs",
+              "RelativeDocumentMoniker": "Punto6.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto6.cs",
+              "RelativeToolTip": "Punto6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:01:42.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Punto5.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto5.cs",
+              "RelativeDocumentMoniker": "Punto5.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto5.cs",
+              "RelativeToolTip": "Punto5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:52:08.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Punto4.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto4.cs",
+              "RelativeDocumentMoniker": "Punto4.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto4.cs",
+              "RelativeToolTip": "Punto4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:41:52.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Punto3.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto3.cs",
+              "RelativeDocumentMoniker": "Punto3.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto3.cs",
+              "RelativeToolTip": "Punto3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:36:35.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Punto2.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto2.cs",
+              "RelativeDocumentMoniker": "Punto2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto2.cs",
+              "RelativeToolTip": "Punto2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:31:13.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Punto1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto1.cs",
+              "RelativeDocumentMoniker": "Punto1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto1.cs",
+              "RelativeToolTip": "Punto1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:23:45.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:23:19.488Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
@@ -67,104 +154,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "variables2.csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\variables2.csproj",
-              "RelativeDocumentMoniker": "variables2.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\variables2.csproj",
-              "RelativeToolTip": "variables2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T02:06:13.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Punto6.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto6.cs",
-              "RelativeDocumentMoniker": "Punto6.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto6.cs",
-              "RelativeToolTip": "Punto6.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:01:42.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Punto5.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto5.cs",
-              "RelativeDocumentMoniker": "Punto5.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto5.cs",
-              "RelativeToolTip": "Punto5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:52:08.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Punto4.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto4.cs",
-              "RelativeDocumentMoniker": "Punto4.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto4.cs",
-              "RelativeToolTip": "Punto4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:41:52.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Punto3.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto3.cs",
-              "RelativeDocumentMoniker": "Punto3.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto3.cs",
-              "RelativeToolTip": "Punto3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:36:35.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Punto2.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto2.cs",
-              "RelativeDocumentMoniker": "Punto2.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto2.cs",
-              "RelativeToolTip": "Punto2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:31:13.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Punto1.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto1.cs",
-              "RelativeDocumentMoniker": "Punto1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Punto1.cs",
-              "RelativeToolTip": "Punto1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:23:45.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\NET\\variables2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:23:19.488Z",
-              "EditorCaption": ""
             }
           ]
         }
