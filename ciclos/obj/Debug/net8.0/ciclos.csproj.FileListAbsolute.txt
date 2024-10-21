@@ -1,0 +1,14 @@
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\obj\Debug\net8.0\ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\obj\Debug\net8.0\ciclos.AssemblyInfoInputs.cache
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\obj\Debug\net8.0\ciclos.AssemblyInfo.cs
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\obj\Debug\net8.0\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\bin\Debug\net8.0\ciclos.exe
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\bin\Debug\net8.0\ciclos.deps.json
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\bin\Debug\net8.0\ciclos.runtimeconfig.json
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\bin\Debug\net8.0\ciclos.dll
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\bin\Debug\net8.0\ciclos.pdb
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\obj\Debug\net8.0\ciclos.dll
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\obj\Debug\net8.0\refint\ciclos.dll
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\obj\Debug\net8.0\ciclos.pdb
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\obj\Debug\net8.0\ciclos.genruntimeconfig.cache
+C:\Users\Adminsena.DESKTOP-0OS8JMN\source\repos\ciclos\obj\Debug\net8.0\ref\ciclos.dll
